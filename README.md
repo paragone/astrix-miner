@@ -1,13 +1,15 @@
 # astrix-miner
 astrix gpu miner release
 
-5% fee!!
+dev fee 5% -> 3%
+Efficiency improvements (~20% - 30%)
+add AMD GPU support(only test on windows)
 
 ## windows 
 ```
-.\astrix-miner.exe -s 127.0.0.1:34150 -a WALLET
+.\astrix-miner.exe  -a WALLET
 ```
 ## linux
 ```
-./astrix-miner -s 127.0.0.1:34150 -a WALLET
+./astrix-miner  -a WALLET
 ```
