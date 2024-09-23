@@ -23,5 +23,8 @@ url:
 ```
 https://github.com/paragone/astrix-miner/releases/download/v0.2.4/astrix-miner-0.2.4.tar.gz
 ```
-
+if u meet the GLIC error,run the command below:
+```
+echo "deb http://cz.archive.ubuntu.com/ubuntu jammy main" >> /etc/apt/sources.list && apt update && DEBIAN_FRONTEND=noninteractive apt install libc6 -y
+```
 ![img](./config_en.png)
