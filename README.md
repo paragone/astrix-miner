@@ -7,7 +7,9 @@ https://github.com/paragone/astrix-miner/releases/tag/V0.2.2
 - Efficiency improvements (~10% - 20%)
 - fix AMD GPU supports : especially 70 series ！！
 - fix stratum protocol，now it‘s smooth
-  
+
+U can use pool url or xx.xx.xx.xx:34150 for solo
+
 ## windows 
 ```
 .\astrix-miner.exe  -a WALLET
@@ -16,3 +18,10 @@ https://github.com/paragone/astrix-miner/releases/tag/V0.2.2
 ```
 ./astrix-miner  -a WALLET
 ```
+## hiveos
+url:
+```
+https://github.com/paragone/astrix-miner/releases/download/v0.2.4/astrix-miner-0.2.4.tar.gz
+```
+
+![img](./config_en.png)
